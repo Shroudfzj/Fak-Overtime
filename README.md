@@ -1,6 +1,6 @@
-# fak-overtime
+# Fak-Overtime
 
-> A Vue.js project
+> WDNMD真996啊都
 
 ## Build Setup
 
